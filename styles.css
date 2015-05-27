@@ -1,0 +1,17 @@
+a.menu {
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 14px;
+    margin:0px;
+    padding:0px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+ a.menu:hover {
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 14px;
+    margin:0px;
+    padding:0px;
+    text-decoration: underline;
+    color: #f8d82b;
+}
