@@ -1,4 +1,4 @@
-Splashpage-CreateAndManage-For-Admin (legacy)
+Splashpage-CreateAndManage-For-Admin (legacy 2014)
 
 Splashpage management site for admin to create splashpages for their members to use to promote the admin's websites.
 
